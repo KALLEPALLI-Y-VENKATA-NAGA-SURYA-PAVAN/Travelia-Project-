@@ -1,3 +1,3 @@
-# Travelia-Project-
-The Travelia website project aims to create a comprehensive and informative website 
-dedicated to promoting tourism in India.
+# travelia
+
+The world in your hands. Website design for a travel agency, with several sections and functions adapted to the user experience.
